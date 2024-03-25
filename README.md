@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Afiq Fahmi
 ==================================================================================================================================
 
-I'm 3rd year student of computer science (Software engineering)
+I'm 3rd Year Student of Computer Science (Software Engineering)
 ---------------------------------------------------------------
 
 * 🌍  I'm based in Malaysia
